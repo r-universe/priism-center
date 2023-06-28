@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/priism-center/plotbart
-	shallow = true
-	registered = true
